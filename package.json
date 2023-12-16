@@ -17,8 +17,8 @@
     "webpack-dev-server": "^4.15.1"
   },
   "scripts": {
-   "start": "webpack-dev-server --hot --open",
-   "build": "webpack --config webpack.config.js --mode production"
+    "start": "webpack-dev-server --hot --open",
+    "build": "webpack --config webpack.config.js --mode production"
   },
   "keywords": [],
   "author": "",
